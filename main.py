@@ -54,12 +54,4 @@ PyPoll.write('\n' + "Total_votes" + str(total_votes))
 PyPoll.write('\n' + str(candidates))
 PyPoll.write('\n' + str(percentage_votes))
 PyPoll.write('\n' + str(tot_num_votes)) 
-PyPoll.write('\n' + "Winner:" + winner)    
-
-
-
-
- 
-
-       
-            
+PyPoll.write('\n' + "Winner:" + winner) 
